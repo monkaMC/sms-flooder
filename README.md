@@ -7,4 +7,4 @@ if you want to add more api's, look where is going there post/get request and wi
 *This project was created for educational and research purposes only.*
 
 # Contact
-Discord: Jamie.#8911
+Discord: Cousin#4191
